@@ -59,7 +59,6 @@ Y en Mac se debería ver así:
 
 (La información sobre la versión de R y sobre el sistema operativo que aparece en ese mensaje inicial puede que se vea distinto en tu caso.)
 
-Al final de la primera clase habrá un espacio para resolver problemas de instalación, en caso de que te hayas encontrado con alguno. Como señalamos anteriormente, en la sesión del jueves 18 trabajaremos en RStudio Cloud. A partir del jueves 25 el objetivo es poder trabajar desde tu computador. 
 
 #### 2. Instala RStudio
 
@@ -75,7 +74,8 @@ Si quedó todo bien instalado, cuando abras RStudio deberías ver algo parecido 
 A lo largo del curso usaremos una versión reciente de R y RStudio, así que si tienes instalada una versión previa, puede que algunas cosas se vean un poco distintas. Versiones de R anteriores a la 3.5 harán que algunas cosas no funcionen, por lo que te sugerimos actualizar. La última versión de R es la 4.0.2 y la última de RStudio la 1.3.
 
 **IMPORTANTE:** Si te encuentras con algún error durante este proceso, lo más probabable es que sea por alguna configuración de tu sistema operativo. En ese caso, la mejor manera de buscar una solución es copiar el error que arroja R, pegarlo en tu motor de búsqueda favorito y ver cómo alguien que se enfrentó a eso antes lo resolvió.
-Si por alguna razón no logras resolver los problemas de instalación antes de la primera clase, no te preocupes. Durante esa sesión utilizaremos la versión en la nube de RStudio. A continuación explicaremos cómo registrarse.
+Si por alguna razón no logras resolver los problemas de instalación antes de la primera clase, no te preocupes. Al final de esa clase habrá un espacio para resolver problemas de instalación, en caso de que te hayas encontrado con alguno. Durante esa sesión utilizaremos la versión en la nube de RStudio, así que para ese primer día lo más importante es el siguiente paso.
+
 
 ### RStudio Cloud
 
