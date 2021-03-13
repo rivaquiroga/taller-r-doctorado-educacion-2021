@@ -17,10 +17,10 @@ Hay dos maneras de utilizarlo: en la nube o instalar todo localmente. Ambas tien
 
 **RStudio en tu computador**
 
-- *Ventajas*: no necesitas conexión a internet para trabajar (pero sí para instalar "paquetes" -ya veremos qué son los paquetes). También es más intuitivo trabajar con los archivos que están tu computador (tanto para leerlos como para crear archivos nuevos).
-- *Desventajas*: implica instalar cosas. Ese proceso debería ser sencillo; sin embargo, cada computador es distinto y a veces es posible encontrarse con problemas. De todos modos, siempre es posible encontrar una solución en internet.
+- *Ventajas*: no necesitas conexión a internet para trabajar (pero sí para instalar "paquetes" -ya veremos qué son los paquetes). También es más intuitivo trabajar con los archivos que están en tu computador (tanto para leerlos como para crear archivos nuevos).
+- *Desventajas*: implica instalar cosas. Ese proceso debería ser sencillo; sin embargo, cada computador es distinto y a veces es posible encontrarse con problemas. De todos modos, nunca serás la primera persona en haber tenido un problema, así que suele ser fácil encontrar una solución en internet.
 
-A continuación mostraremos el paso a paso para ambas opciones. La primera sesión trabajaremos con RStudio Cloud, pero el objetivo final es que puedas tener R y RStudio instalados en tu computador para seguir trabajando de manera independiente en el futuro.  
+A continuación mostraremos el paso a paso para ambas opciones. **Durante la primera sesión trabajaremos con RStudio Cloud**, pero el objetivo final es que puedas tener R y RStudio instalados en tu computador para seguir trabajando de manera independiente en el futuro.  
 
 
 ### Preparar tu computador
@@ -41,7 +41,7 @@ Si utilizas Windows, te preguntará qué es lo que quieres instalar. Selecciona 
 <img src="imagenes/windows.png" width="600"/>
 </p>
 
-En el caso de Mac, elige la primera opción que aparece bajo "Latest release", es decir, "R-4.0.2.pkg (notarized and signed)".
+En el caso de Mac, elige la primera opción que aparece bajo "Latest release", es decir, "R-4.0.4.pkg (notarized and signed)".
 
 Luego, sigue los pasos de instalación, tal como lo haces con cualquier programa.
 
@@ -71,10 +71,10 @@ Si quedó todo bien instalado, cuando abras RStudio deberías ver algo parecido 
 <img src="imagenes/rstudio.png" width="600"/>
 </p>
 
-A lo largo del curso usaremos una versión reciente de R y RStudio, así que si tienes instalada una versión previa, puede que algunas cosas se vean un poco distintas. Versiones de R anteriores a la 3.5 harán que algunas cosas no funcionen, por lo que te sugerimos actualizar. La última versión de R es la 4.0.2 y la última de RStudio la 1.3.
+A lo largo del curso usaremos una versión reciente de R y RStudio, así que si tienes instalada una versión previa, puede que algunas cosas se vean un poco distintas. Versiones de R anteriores a la 3.6 harán que algunas cosas no funcionen, por lo que si ese es tu caso, mejor actualizar todo. La última versión de R es la 4.0.4 y la última de RStudio la 1.4.
 
 **IMPORTANTE:** Si te encuentras con algún error durante este proceso, lo más probabable es que sea por alguna configuración de tu sistema operativo. En ese caso, la mejor manera de buscar una solución es copiar el error que arroja R, pegarlo en tu motor de búsqueda favorito y ver cómo alguien que se enfrentó a eso antes lo resolvió.
-Si por alguna razón no logras resolver los problemas de instalación antes de la primera clase, no te preocupes. Al final de esa clase habrá un espacio para resolver problemas de instalación, en caso de que te hayas encontrado con alguno. Durante esa sesión utilizaremos la versión en la nube de RStudio, así que para ese primer día lo más importante es el siguiente paso.
+Si por alguna razón no logras resolver los problemas de instalación antes de la primera clase, no te preocupes. Al final de esa clase habrá un espacio para resolver problemas de instalación, en caso de que te hayas encontrado con alguno. Durante la primera sesión utilizaremos la versión en la nube de RStudio, así que para ese primer día lo más importante es el siguiente paso.
 
 
 ### RStudio Cloud
@@ -141,8 +141,7 @@ Luego de conectarlo, configura tu computador para que las pantallas no se dupliq
 
 #### Usar otro dispositivo
 
-Si tienes una tablet, puedes conectarte a Zoom desde ella para mirar la clase y en paralelo trabajar en tu computador. Puedes intentarlo también usando tu teléfono móvil, pero es posible que se vea demasiado pequeño el código. En todo caso, como explicaremos al inicio del taller, todo el código que vayamos escribiendo nosotras se actualizará en línea en un link que indicaremos al inicio de la sesión, por lo que si no ves bien algo en tu teléfono, puedes revisarlo ahí. Puede que esto suene un poco misterioso ahora, pero al inicio del taller lo explicaremos.
-Si optas por esta opción, la sugerencia es que te conectes a Zoom desde ambos dispositivos. Así, si en algún momento de la clase algo no te resulta, podrás compartir la pantalla para que podamos resolverlo. 
+Si tienes una tablet, puedes conectarte a Zoom desde ella para mirar la clase y en paralelo trabajar en tu computador. Puedes intentarlo también usando tu teléfono móvil, pero es posible que se vea demasiado pequeño el código. Si optas por esta opción, la sugerencia es que te conectes a Zoom **desde ambos dispositivos**. Así, si en algún momento de la clase algo no te resulta, podrás compartir la pantalla para que podamos resolverlo. 
 
 <p align="center">
 <img src="imagenes/compu-telefono.jpeg" width="400"/>
