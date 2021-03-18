@@ -10,6 +10,8 @@ En [el siguiente documento](https://github.com/rivaquiroga/taller-r-doctorado-ed
 
 ### Sesión 1: 18 de marzo
 
+- [Ejemplo de proyecto en RStudio Cloud](https://rstudio.cloud/project/2306002)
+
 ### Sesión 2: 25 de marzo
 
 ### Sesión 3: 8 de abril
