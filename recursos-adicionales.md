@@ -76,8 +76,7 @@ En [The Programming Historian](https://programminghistorian.org/) publicamos tut
 ## Actividades de la comunidad de R
 
 * En Twitter pueden mirar el hashtag #TidyTuesday para ver ejemplos de visualizaciones
-*
-* RLadies. En Chile hay grupos en [Santiago](https://meetup.com/rladies-scl). [Valparaíso](https://meetup.com/rladies-valparaiso), [Concepción](https://meetup.com/rladies-concepcion) y [Talca](https://meetup.com/rladies-talca), aunque ahora con la pandemia hacemos todas las actividades de forma conjunta. Nos reunimos entre una y dos veces al mes y hacemos talleres.
+* **RLadies**. En Chile hay grupos en [Santiago](https://meetup.com/rladies-scl). [Valparaíso](https://meetup.com/rladies-valparaiso), [Concepción](https://meetup.com/rladies-concepcion) y [Talca](https://meetup.com/rladies-talca), aunque ahora con la pandemia hacemos todas las actividades de forma conjunta. Nos reunimos entre una y dos veces al mes y hacemos talleres.
 
 * [Grupo de Usuarios de R](https://www.meetup.com/es/useRchile). Se reunen una vez al mes o cada dos meses. Hacen charlas, no talleres.
 
