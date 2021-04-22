@@ -24,6 +24,8 @@ En [el siguiente documento](https://github.com/rivaquiroga/taller-r-doctorado-ed
 
 [Datos](http://bit.ly/taller-r-datos-3 ) :open_file_folder:
 
+[Presentación "joins"](http://bit.ly/r-uniones) :computer:
+
 
 ### Sesión 4: 15 de abril
 
