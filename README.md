@@ -20,11 +20,26 @@ En [el siguiente documento](https://github.com/rivaquiroga/taller-r-doctorado-ed
 
 ### Sesión 3: 8 de abril
 
+[Código](http://bit.ly/taller-r-script-2) :page_facing_up: (el mismo script de la sesión anterior)
+
+[Datos](http://bit.ly/taller-r-datos-3 ) :open_file_folder:
+
+
 ### Sesión 4: 15 de abril
 
-### Sesión 5: 22 de abril
+[Código](http://bit.ly/taller-r-script-4) :page_facing_up:
+
+[Datos](https://data.ipu.org/) :open_file_folder:
+
+### Sesión 5: 21 de abril
+
+[Código](http://bit.ly/script-desarrollo) :page_facing_up:
 
 ### Sesión 6: 22 de abril
+
+[Código](http://bit.ly/script-desarrollo) :page_facing_up: (al principio continuamos con el script de la sesión anterior)
+
+### Sesión 7: 29 de abril
 
 ## Recursos de apoyo
 
